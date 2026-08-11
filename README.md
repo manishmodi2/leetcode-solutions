@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/manishmodi2/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/manishmodi2/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/manishmodi2/leetcode-solutions/tree/master/0326-power-of-three) |
 ## String
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/manishmodi2/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/manishmodi2/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |

@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/manishmodi2/leetcode-solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/manishmodi2/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manishmodi2/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/manishmodi2/leetcode-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/manishmodi2/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/manishmodi2/leetcode-solutions/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/manishmodi2/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/manishmodi2/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/manishmodi2/leetcode-solutions/tree/master/0724-find-pivot-index) |

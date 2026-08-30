@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/manishmodi2/leetcode-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/manishmodi2/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/manishmodi2/leetcode-solutions/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/manishmodi2/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/manishmodi2/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/manishmodi2/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/manishmodi2/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -79,12 +80,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/manishmodi2/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/manishmodi2/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/manishmodi2/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/manishmodi2/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/manishmodi2/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/manishmodi2/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
 | ------- |

@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manishmodi2/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/manishmodi2/leetcode-solutions/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/manishmodi2/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/manishmodi2/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/manishmodi2/leetcode-solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/manishmodi2/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -143,4 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/manishmodi2/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/manishmodi2/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/manishmodi2/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/manishmodi2/leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/manishmodi2/leetcode-solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

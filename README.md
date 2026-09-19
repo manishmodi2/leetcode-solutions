@@ -152,4 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/manishmodi2/leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/manishmodi2/leetcode-solutions/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/manishmodi2/leetcode-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

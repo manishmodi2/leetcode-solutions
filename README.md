@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/manishmodi2/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/manishmodi2/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/manishmodi2/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/manishmodi2/leetcode-solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/manishmodi2/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/manishmodi2/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/manishmodi2/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/manishmodi2/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/manishmodi2/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/manishmodi2/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/manishmodi2/leetcode-solutions/tree/master/0322-coin-change) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/manishmodi2/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/manishmodi2/leetcode-solutions/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/manishmodi2/leetcode-solutions/tree/master/0322-coin-change) |
 ## Binary Search
 |  |
 | ------- |
@@ -200,4 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manishmodi2/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/manishmodi2/leetcode-solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/manishmodi2/leetcode-solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->

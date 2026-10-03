@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/manishmodi2/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/manishmodi2/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/manishmodi2/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/manishmodi2/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/manishmodi2/leetcode-solutions/tree/master/0412-fizz-buzz) |

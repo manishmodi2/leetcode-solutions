@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/manishmodi2/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/manishmodi2/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/manishmodi2/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/manishmodi2/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/manishmodi2/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/manishmodi2/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/manishmodi2/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/manishmodi2/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/manishmodi2/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/manishmodi2/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0739-daily-temperatures](https://github.com/manishmodi2/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
 | ------- |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/manishmodi2/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/manishmodi2/leetcode-solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

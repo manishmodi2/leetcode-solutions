@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/manishmodi2/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/manishmodi2/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/manishmodi2/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0394-decode-string](https://github.com/manishmodi2/leetcode-solutions/tree/master/0394-decode-string) |
 ## String
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/manishmodi2/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/manishmodi2/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/manishmodi2/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/manishmodi2/leetcode-solutions/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/manishmodi2/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0981-time-based-key-value-store](https://github.com/manishmodi2/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [1108-defanging-an-ip-address](https://github.com/manishmodi2/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/manishmodi2/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/manishmodi2/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/manishmodi2/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0394-decode-string](https://github.com/manishmodi2/leetcode-solutions/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/manishmodi2/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
